@@ -1,0 +1,21 @@
+
+
+# Jupyter notebooks
+
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Spark
+spark-warehouse/
+
+
+# Data Lakehouse
+data/
+
+
+
+
+
